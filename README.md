@@ -1,2 +1,3 @@
 # first
-this is my first git repostry
+this is my first Git repostry
+Author - maheshwari zalak
